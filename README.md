@@ -1,4 +1,4 @@
-<img src="https://github.com/orangecopres-spec/arduklip/blob/main/arduklip.png?raw=true" alt="arduklip.png"/><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a914299a-9c54-476a-b519-b7d7e6fdfe2d" />
+<img src="https://github.com/orangecopres-spec/arduklip/blob/main/arduklip.png?raw=true" alt="arduklip.png"/>
 
 
 
