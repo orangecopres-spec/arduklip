@@ -1,3 +1,8 @@
+<img src="https://github.com/orangecopres-spec/arduklip/blob/main/arduklip.png?raw=true" alt="arduklip.png"/><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a914299a-9c54-476a-b519-b7d7e6fdfe2d" />
+
+
+
+
 this is the arduklip repo! Tired of having to buy rasperry pi for custom built printers? Well, look no further! arduklip runs in a uno r3 and your linux computer!
 
 how to run:
