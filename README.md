@@ -25,4 +25,6 @@ Octoprint support #beta:
 
 install bridge-serial-octoprint.ino.ino on your arduino uno r3 then go to octoprint and make a profile called o1vo with 200 by 200 by 200 and regular settings then save then connect to it at baud: Auto and Serial: auto and profile o1vo and connect and print a thing!
 
+also on the new relese edit the code at the top until you see a #define SIMULATION_MODE 0   // 1 = simulator, 0 = real hardware turn it to 1 to simulate
+
 
